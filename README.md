@@ -2,6 +2,10 @@
 
 ## Deployment Of Apache Docker Image To EC2
 ### Go to http://ec2-54-255-207-175.ap-southeast-1.compute.amazonaws.com/ to access the deployed EC2 instance
+
+### The DockerFile used to generate the Apache Web Server Docker Image can be accessed from
+    https://github.com/cheemingyong/Interactive-Docker-Image/blob/main/test.dockerfile
+
 ### Instructions can be retrieved from the userguide.docx
 
 ## Future Enhancements
