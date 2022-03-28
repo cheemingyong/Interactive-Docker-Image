@@ -7,9 +7,12 @@
     https://github.com/cheemingyong/Interactive-Docker-Image/blob/main/test.dockerfile
 
 ### To access the SSH shell, please download the private key into a folder on your desktop
+
     Make sure ssh is installed
     https://github.com/cheemingyong/Interactive-Docker-Image/blob/main/AWS_DOCKER.pem
+    
     Go to the folder containing the AWS_DOCKER.pem file 
+    
     Run ssh -i AWS_DOCKER.PEM ec2-user@54.255.207.175
 
 ### Instructions can be retrieved from the userguide.docx
